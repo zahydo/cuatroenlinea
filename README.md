@@ -1,1 +1,1 @@
-"# cuatroenlinea" 
+Familia de juegos de cuatro en linea. Este sistema se utiliza como material experimental en un estudio exploratorio para validar la utilidad de una herramienta basada en anotaciones de código fuente para documentar el Rationale Arquitectónico.
